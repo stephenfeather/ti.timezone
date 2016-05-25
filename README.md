@@ -6,8 +6,6 @@ Quick and dirty native access to timezone information
 
 **Stephen Feather**
 
-web: http://featherdirect.com
-
 twitter: @stephenfeather
 
 
