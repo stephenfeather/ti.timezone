@@ -1,4 +1,4 @@
-#TiTimezone
+#Ti.Timezone
 ## Description
 Quick and dirty native access to timezone information
 
