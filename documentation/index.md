@@ -38,6 +38,14 @@ The local time zone represents the current state of the default time zone at all
 TimeZone.localTimeZone
 ```
 
+### knownTimeZoneNames
+
+An array of strings listing the IDs of all the time zones known to the system.
+
+```javascript
+TimeZone.knownTimeZoneNames
+```
+
 ## Author
 
 Stephen Feather
